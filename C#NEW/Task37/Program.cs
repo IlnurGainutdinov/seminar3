@@ -30,4 +30,4 @@ if (array.Length % 2 == 1)
 {
 newArray[newArray.Length - 1] = array[array.Length / 2];
 }
-System.Console.WriteLine(string.Join(", ", newArray));
+System.Console.WriteLine(string.Join(", ", newArray));      
